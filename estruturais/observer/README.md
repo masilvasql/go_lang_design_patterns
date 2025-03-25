@@ -1,0 +1,2 @@
+O padrão Observer define uma relação "um-para-muitos" onde um objeto (o "sujeito" ou "subject") 
+mantém uma lista de dependentes (os "observadores" ou "observers") e os notifica automaticamente sobre mudanças de estado.
