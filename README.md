@@ -2,13 +2,13 @@
    
 Esses padrões lidam com a instanciação de objetos de forma flexível e eficiente.
 
-Singleton - Garante que uma classe tenha apenas uma instância global e fornece um ponto de acesso único.
+[ x ] - Singleton - Garante que uma classe tenha apenas uma instância global e fornece um ponto de acesso único.
 
 Factory Method - Define uma interface para criar objetos, mas permite que as subclasses decidam qual classe instanciar.
 
 Abstract Factory - Fornece uma interface para criar famílias de objetos relacionados sem especificar suas classes concretas.
 
-Builder - Separa a construção de um objeto complexo da sua representação.
+[ x ] - Builder - Separa a construção de um objeto complexo da sua representação.
 
 Prototype - Permite criar novos objetos copiando uma instância existente.
 
@@ -50,7 +50,7 @@ Mediator - Define um objeto central para gerenciar a comunicação entre objetos
 
 Memento - Permite capturar e restaurar o estado de um objeto sem violar o encapsulamento.
 
-Observer - Define uma dependência um-para-muitos entre objetos, notificando-os automaticamente sobre mudanças.
+[ x ] - Observer - Define uma dependência um-para-muitos entre objetos, notificando-os automaticamente sobre mudanças.
 
 State - Permite que um objeto altere seu comportamento quando seu estado interno muda.
 
@@ -58,4 +58,4 @@ Strategy - Define uma família de algoritmos e permite a seleção dinâmica de 
 
 Template Method - Define a estrutura de um algoritmo deixando certos passos para subclasses.
 
-Visitor - Permite adicionar novas operações a uma estrutura de objetos sem modificar suas classes.
+[ x ] - Visitor - Permite adicionar novas operações a uma estrutura de objetos sem modificar suas classes.
