@@ -22,7 +22,7 @@ Adapter - Converte a interface de uma classe em outra que um cliente espera.
 
 Bridge - Separa uma abstração de sua implementação para permitir mudanças independentes.
 
-Composite - Permite que objetos sejam organizados em estruturas hierárquicas como árvores.
+[ x ] - Composite - Permite que objetos sejam organizados em estruturas hierárquicas como árvores.
 
 Decorator - Adiciona funcionalidades dinamicamente a um objeto sem modificar sua estrutura original.
 
