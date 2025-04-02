@@ -19,4 +19,13 @@ func main() {
 			fmt.Println("Not legal age")
 		}
 	}
+
+
+	element := Element(&Pessoa{Idade: 17})
+	element.Accept(visitor)
+	if visitor.isLegalAge {
+		fmt.Println("Legal age")
+	} else {
+		fmt.Println("Not legal age")
+	}
 }
