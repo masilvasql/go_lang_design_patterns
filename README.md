@@ -18,7 +18,7 @@ ___
 
 Lidam com a organização e composição de classes e objetos.
 
-Adapter - Converte a interface de uma classe em outra que um cliente espera.
+[ x ] - Adapter - Converte a interface de uma classe em outra que um cliente espera.
 
 Bridge - Separa uma abstração de sua implementação para permitir mudanças independentes.
 
