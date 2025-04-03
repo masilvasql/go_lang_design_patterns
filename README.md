@@ -24,7 +24,7 @@ Bridge - Separa uma abstração de sua implementação para permitir mudanças i
 
 [ x ] - Composite - Permite que objetos sejam organizados em estruturas hierárquicas como árvores.
 
-Decorator - Adiciona funcionalidades dinamicamente a um objeto sem modificar sua estrutura original.
+[ x ] - Decorator - Adiciona funcionalidades dinamicamente a um objeto sem modificar sua estrutura original.
 
 Facade - Fornece uma interface simplificada para um conjunto de interfaces de um sistema complexo.
 
