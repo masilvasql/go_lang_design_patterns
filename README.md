@@ -10,7 +10,7 @@ Abstract Factory - Fornece uma interface para criar famílias de objetos relacio
 
 [ x ] - Builder - Separa a construção de um objeto complexo da sua representação.
 
-Prototype - Permite criar novos objetos copiando uma instância existente.
+[ x ] - Prototype - Permite criar novos objetos copiando uma instância existente.
 
 ___
 
