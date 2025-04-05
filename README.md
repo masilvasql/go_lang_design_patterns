@@ -30,7 +30,7 @@ Lidam com a organização e composição de classes e objetos.
 
 Flyweight - Usa o compartilhamento para suportar um grande número de objetos com baixo custo de memória.
 
-Proxy - Controla o acesso a um objeto através de um substituto ou representante.
+[ x ] - Proxy - Controla o acesso a um objeto através de um substituto ou representante.
 
 ___
 
