@@ -20,7 +20,7 @@ Lidam com a organização e composição de classes e objetos.
 
 [ x ] - Adapter - Converte a interface de uma classe em outra que um cliente espera.
 
-Bridge - Separa uma abstração de sua implementação para permitir mudanças independentes.
+[ x ] - Bridge - Separa uma abstração de sua implementação para permitir mudanças independentes.
 
 [ x ] - Composite - Permite que objetos sejam organizados em estruturas hierárquicas como árvores.
 
@@ -48,7 +48,7 @@ Iterator - Fornece um método para acessar elementos de uma coleção sem expor 
 
 Mediator - Define um objeto central para gerenciar a comunicação entre objetos.
 
-Memento - Permite capturar e restaurar o estado de um objeto sem violar o encapsulamento.
+[ x ] - Memento - Permite capturar e restaurar o estado de um objeto sem violar o encapsulamento.
 
 [ x ] - Observer - Define uma dependência um-para-muitos entre objetos, notificando-os automaticamente sobre mudanças.
 
