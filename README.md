@@ -28,7 +28,7 @@ Lidam com a organização e composição de classes e objetos.
 
 [ x ] - Facade - Fornece uma interface simplificada para um conjunto de interfaces de um sistema complexo.
 
-Flyweight - Usa o compartilhamento para suportar um grande número de objetos com baixo custo de memória.
+[ x ] - Flyweight - Usa o compartilhamento para suportar um grande número de objetos com baixo custo de memória.
 
 [ x ] - Proxy - Controla o acesso a um objeto através de um substituto ou representante.
 
