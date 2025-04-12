@@ -40,7 +40,7 @@ Definem a forma como os objetos interagem e se comunicam.
 
 Chain of Responsibility - Passa uma solicitação através de uma cadeia de manipuladores até que seja processada.
 
-Command - Encapsula uma solicitação como um objeto, permitindo a parametrização de clientes.
+[x] - Command - Encapsula uma solicitação como um objeto, permitindo a parametrização de clientes.
 
 Interpreter - Define uma gramática e um interpretador para processar sentenças dessa gramática.
 
