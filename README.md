@@ -54,7 +54,7 @@ Mediator - Define um objeto central para gerenciar a comunicação entre objetos
 
 State - Permite que um objeto altere seu comportamento quando seu estado interno muda.
 
-Strategy - Define uma família de algoritmos e permite a seleção dinâmica de um deles.
+[ x ] - Strategy - Define uma família de algoritmos e permite a seleção dinâmica de um deles.
 
 Template Method - Define a estrutura de um algoritmo deixando certos passos para subclasses.
 
